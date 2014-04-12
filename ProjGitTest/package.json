@@ -1,0 +1,10 @@
+{
+  "name": "ProjGitTest",
+  "version": "0.0.0",
+  "description": "ProjGitTest",
+  "main": "app.js",
+  "author": {
+    "name": "muthu",
+    "email": ""
+  }
+}
